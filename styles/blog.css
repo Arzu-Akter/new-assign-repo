@@ -48,7 +48,7 @@ body{
 .border-area{
     background-color: rgb(13, 19, 33, 2%);
     max-width: 1140px;
-    height: 1300px;
+    height: 1150px;
     margin: 0px auto;
     margin-top: 90px;
     
@@ -216,3 +216,23 @@ body{
     margin-left: 128px; 
 }
 /*third part ends here*/
+/*Inpiration section starts from here*/
+
+.Inspiration-container{
+    width: 1140px;
+    height: 775px;
+    margin: 0% auto; 
+    margin-top: 20px ;
+}
+.Inspiration-content p{
+    margin-top: 20px;
+    max-width: 800px;
+    height: 52px;
+    margin-left: 128px;
+}
+.Inspiration-content iframe {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 48px;
+}
