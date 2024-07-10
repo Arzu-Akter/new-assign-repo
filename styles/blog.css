@@ -83,6 +83,8 @@ body{
     margin-top: 40px;
     color: black;
     }
+    /*web development ends here*/
+    /*first part starts here*/
 .leftside-content{
     display: flex;
     flex-direction: column;
@@ -129,3 +131,53 @@ body{
     border: 2px solid red;
     background-color: #f8efef;
     }
+    /*first part ends here*/
+    /*second part start here*/
+.part2-side{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    max-width: 946px;
+    height: 250px;
+    margin: 40px;
+    border: 2px solid red;
+    background-color: #f8efef;
+    }
+.leftside-content1{
+    max-width: 264px;
+    height: 246px;
+    background-repeat: no repeat;
+    background-size: cover;
+    border: 2px solid green;
+    margin-right: 128px;
+}
+.rightside-content1 {
+    border: 2px solid purple;
+    max-width: 620px;
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+     }
+.rightside-content1 h6{
+    color:#111314b4;
+    font-weight: 200px;
+    font-size: 20px;
+    max-width: 100%;
+    margin-top: 40px;
+   
+}
+.rightside-content1 p{
+    margin-top: 20px;
+    color: black;
+    max-width: 480px;
+    }
+.rightside-content1 button{
+    max-width: 171px;
+    height: 40px;
+    margin-top: 10px;
+    font-weight: 300px;
+    font-size: 15px;
+    padding: 10px 10px;
+}
+
+/*second part ends here*/
