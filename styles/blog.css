@@ -43,31 +43,42 @@ body{
     color: white;
     background-color: black;
     }
-.web-development p,h2{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    margin-top: 80px;
-
-} 
+/*banner content ends here*/
+/*web development starts here*/
 .border-area{
     border: 2px solid red;
+    color: #ADC8F7;
     max-width: 1140px;
     height: 1300px;
     margin: 0px auto;
     margin-top: 90px;
     
-}  
-.web-development h2{
-    font-weight: 800px ;
-    font-size: 32px;
-    margin-bottom: 20px;
+} 
+.web-dev-container{
+    margin-top: 80px;
+    margin: 0px auto;
+    width: 946px;
+    height: 1233px; 
 }
-.web-development p,h2{
+.web-dev-content p,h2{
+    color: black;
     display: flex;
     flex-direction: column;
     align-items: center;
-     margin-top: 80px;
-    
+    margin: 0px auto;
+    margin-top: 80px;
+} 
+.web-dev-content h2{
+    font-weight: 800px ;
+    font-size: 32px;
+    margin-bottom: 20px;
+    max-width: 852px;
+    height: 55px;
 }
+
+.web-dev-content p{
+    width: 852px;
+    height: 30px;
+    font-size: 16px;
+    margin: 10px;
+    }
