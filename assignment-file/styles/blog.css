@@ -1,0 +1,45 @@
+
+/*nav-title*/
+.nav-title{
+    display: flex;
+    justify-content: space-between;
+    align-items: normal;
+    margin: auto;
+    border: none;
+}
+/*banner design start from here*/
+.banner-container{
+    border: 5px solid red;
+    width: 1440px;
+    height: 600px;
+    margin-left: 210px;
+    margin-top: 35px;
+    
+}
+.banner-content{
+    display: flex;
+    justify-content: center;
+    width: 800px;
+    }
+.banner-image{
+    width: 1440px;
+}
+.banner-image1{
+    width: 240px;
+    height: 240px;
+}
+.text-primary{
+    .azeret-mono-<uniquifier> 
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 48;
+}
+.btn-primary{
+    font-family: "Azeret Mono";
+    font-weight:20;
+    border: 244px 60px solid black;
+}
+    
+        
