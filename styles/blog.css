@@ -236,3 +236,138 @@ body{
     align-items: center;
     margin: 48px;
 }
+/*inspiration section ends*/
+/*target section starts here*/
+.target-container{
+    border: 2px solid red;
+    max-width: 1140px;
+    height: 1437px;
+    margin: 0% auto; 
+    margin-top: 20px ; 
+}
+.target-contents{
+    margin-top: 20px;
+    max-width: 800px;
+    height: 52px;
+    margin-left: 128px;
+   }
+.target-contents h2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 852px;
+    height: 37px;
+     
+}
+.target-contents p{
+     margin-top: 20px;
+}
+.lang-container{
+    display: flex;
+    flex-direction: row;
+    border: 2px solid red;
+    max-width: 1140px;
+    height: 299px;
+    margin: 0% auto;
+    margin-top: 140px;
+}
+.lang-content{
+    border: 2px solid red;
+    column-gap: 24px;
+    margin-left: 0%;
+    background-color: hsl(320, 16%, 96%) ;
+    max-width: 380px;
+    height: 299px;
+  
+    
+}
+.lang-content img{
+   margin-top: 40px;
+   margin-left: 20px;
+}
+.lang-content h3{
+    margin-top: 10px;
+    margin-left: 20px;
+    max-width: 285px;
+    height: 34px;
+    font-weight: 800;
+    font-size: 24px;
+}
+.lang-content p{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.lang-content button{
+    font-weight: 600px;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border: 0ch;
+    text-decoration: underline;
+}
+.lang-content1{
+    border: 2px solid red;
+
+    background-color: hsl(320, 16%, 96%) ;
+    max-width: 380px;
+    height: 299px;
+    margin-left: 0%;
+}
+.lang-content1 img{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.lang-content1 h3{
+    margin-top: 10px;
+    margin-left: 20px;
+    max-width: 285px;
+    height: 34px;
+    font-weight: 800;
+    font-size: 24px;
+}
+.lang-content1 p{
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.lang-content1 button{
+    font-weight: 600px;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border: 0ch;
+    text-decoration: underline;
+}
+.lang-content2 {
+    border: 2px solid red;
+    background-color: hsl(320, 16%, 96%) ;
+    max-width: 380px;
+    height: 299px;
+    margin-left: 0%;
+}
+.lang-content2 img{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.lang-content2 h3{
+    margin-top: 10px;
+    margin-left: 20px;
+    max-width: 285px;
+    height: 34px;
+    font-weight: 800;
+    font-size: 24px;
+}
+.lang-content2 p{
+    margin-top: 10px;
+    margin-left: 20px; 
+}
+.lang-content2 button{
+    font-weight: 600px;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 20px;
+    border: 0ch;
+    text-decoration: underline; 
+}
+/*target section ends here*/
