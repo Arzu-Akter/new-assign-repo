@@ -46,7 +46,6 @@ body{
 /*banner content ends here*/
 /*web development starts here*/
 .border-area{
-    border: 2px solid red;
     background-color: rgb(13, 19, 33, 2%);
     max-width: 1140px;
     height: 1300px;
@@ -55,7 +54,6 @@ body{
     
 } 
 .web-dev-container{
-    border: 2px solid red;
     gap: 80px;
     margin: 0px auto;
     margin-top: 80px;
@@ -90,7 +88,6 @@ body{
     flex-direction: column;
     max-width: 600px;
     height: 246px;
-    border: 2px solid purple;
     }
 .leftside-content h6{
     color:#111314b4;
@@ -118,7 +115,6 @@ body{
     height: 246px;
     background-repeat: no repeat;
     background-size: cover;
-    border: 2px solid green;
     margin-left: 128px;
  }
  .part1-side{
@@ -128,7 +124,6 @@ body{
     max-width: 946px;
     height: 246px;
     margin: 40px;
-    border: 2px solid red;
     background-color: #f8efef;
     }
     /*first part ends here*/
@@ -140,7 +135,6 @@ body{
     max-width: 946px;
     height: 250px;
     margin: 40px;
-    border: 2px solid red;
     background-color: #f8efef;
     }
 .leftside-content1{
@@ -148,11 +142,9 @@ body{
     height: 246px;
     background-repeat: no repeat;
     background-size: cover;
-    border: 2px solid green;
     margin-right: 128px;
 }
 .rightside-content1 {
-    border: 2px solid purple;
     max-width: 620px;
     display: flex;
     flex-direction: column;
@@ -179,5 +171,48 @@ body{
     font-size: 15px;
     padding: 10px 10px;
 }
-
 /*second part ends here*/
+/*Third part starts from here*/
+.part3-side{
+    display: flex;
+    flex-direction: row;
+    justify-content: baseline;
+    max-width: 946px;
+    height: 246px;
+    margin: 40px;
+    background-color: #f8efef;
+}
+.leftside-content2{
+    display: flex;
+    flex-direction: column;
+    max-width: 480px;
+    height: 246px;
+    }
+.leftside-content2 h6{
+    color:#111314b4;
+    font-weight: 200px;
+    font-size: 20px;
+    margin-top: 40px;
+    max-width: 390px;
+    height: 48px;
+   }
+.leftside-content2 p{
+    color: black;
+    margin-top: 10px; 
+}
+.leftside-content2 button{
+    max-width: 171px;
+    height: 40px;
+    margin-top: 10px;
+    font-weight: 300px;
+    font-size: 15px;
+    padding: 10px 10px;
+}
+.rightside-content2{
+    max-width: 264px;
+    height: 246px;
+    background-repeat: no repeat;
+    background-size: cover;
+    margin-left: 128px; 
+}
+/*third part ends here*/
