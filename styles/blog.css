@@ -9,7 +9,7 @@ body{
 }
 /*banner section style begins here*/
 .banner-container{
-    width: 1440px;
+    max-width: 1440px;
     margin: 0px auto;
     min-height: 600px; 
     margin-top: 119px;
@@ -43,3 +43,31 @@ body{
     color: white;
     background-color: black;
     }
+.web-development p,h2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 80px;
+
+} 
+.border-area{
+    border: 2px solid red;
+    max-width: 1140px;
+    height: 1300px;
+    margin: 0px auto;
+    margin-top: 90px;
+    
+}  
+.web-development h2{
+    font-weight: 800px ;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+.web-development p,h2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+     margin-top: 80px;
+    
+}
